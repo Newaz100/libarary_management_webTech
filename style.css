@@ -1,0 +1,138 @@
+.status{
+    color:green;
+}
+
+.book-container{
+    font-weight: bold;
+ }
+
+
+
+.navbar {
+    background-color: #0275d8;
+}
+
+
+.content {
+    margin-top: 80px; 
+}
+
+
+.book-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-bottom: 20px;
+}
+
+
+.book {
+    text-align: center;
+    margin: 10px;
+}
+
+.book img {
+    width: 250px;
+    height: 300px;
+}
+
+h2 {
+    text-align: center;
+}
+
+
+form {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+img[alt="Aiub Logo"] {
+    width: 550px;
+    height: 250px;
+}
+
+
+
+
+
+
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+
+.navbar {
+    background-color: #0275d8; 
+}
+
+.content {
+    margin-top: 80px; 
+}
+
+
+.forgot-form {
+    max-width: 400px;
+    margin: auto;
+    padding: 30px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
+
+
+.status {
+    color: green;
+}
+
+
+.book-container {
+    font-weight: bold;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-bottom: 20px;
+}
+
+
+.book {
+    text-align: center;
+    margin: 10px;
+}
+
+.book img {
+    width: 250px;
+    height: 300px;
+}
+
+
+h2 {
+    text-align: center;
+}
+
+
+form {
+    text-align: center;
+}
+
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+img[alt="Aiub Logo"] {
+    width: 550px;
+    height: 250px;
+}
+
+
+
+
